@@ -5,7 +5,7 @@ It predicts machine downtime, alerts about anomalies, and answers factory questi
 
 ## 🧩 Tech Used
 - Python
-- Pandas, joblib, scikit-learn
+- Pandas, joblib, scikit-learn, faker
 - CSV data (randomly generated data)
 - Machine Learning
 
