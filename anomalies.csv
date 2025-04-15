@@ -1,0 +1,11 @@
+date,shift,machine_id,operator,product,target_output,actual_output,defects,downtime,downtime_reason,is_anomaly
+2025-02-17,Morning,M2,Tricia Carter,Doll,85,98,6,57,,-1
+2025-04-11,Afternoon,M3,Chad Sanford,Toy Car,99,81,10,1,,-1
+2025-01-19,Morning,M1,Bryan Kelly,Toy Car,78,41,2,60,Broken,-1
+2025-01-25,Morning,M3,Matthew Murphy,Robot,78,91,1,0,Broken,-1
+2025-01-19,Morning,M2,Seth Lynch,Toy Car,81,51,0,5,,-1
+2025-02-06,Night,M2,Sarah Pierce,Doll,95,97,9,3,,-1
+2025-02-16,Night,M2,Phillip Molina,Doll,73,92,10,21,No Material,-1
+2025-03-21,Afternoon,M2,Joseph Campbell,Doll,76,98,0,47,Broken,-1
+2025-03-26,Afternoon,M1,Ronald Garcia,Toy Car,68,91,0,6,No Material,-1
+2025-03-31,Morning,M1,Joyce Marshall,Doll,94,44,9,56,No Power,-1
